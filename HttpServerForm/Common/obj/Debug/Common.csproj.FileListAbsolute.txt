@@ -1,0 +1,6 @@
+E:\MyProjects\HttpServerForm\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\MyProjects\HttpServerForm\Common\bin\Debug\Common.dll
+E:\MyProjects\HttpServerForm\Common\bin\Debug\Common.pdb
+E:\MyProjects\HttpServerForm\Common\obj\Debug\Common.dll
+E:\MyProjects\HttpServerForm\Common\obj\Debug\Common.pdb
+E:\MyProjects\HttpServerForm\Common\obj\Debug\Common.csproj.AssemblyReference.cache

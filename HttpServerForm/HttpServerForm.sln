@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServerForm", "HttpServerForm\HttpServerForm.csproj", "{603A894E-4470-44B3-BE97-B3BFD5DA5349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{3A7EEE40-BCA2-40F6-85FA-AED06FD546A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603A894E-4470-44B3-BE97-B3BFD5DA5349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603A894E-4470-44B3-BE97-B3BFD5DA5349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603A894E-4470-44B3-BE97-B3BFD5DA5349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603A894E-4470-44B3-BE97-B3BFD5DA5349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7EEE40-BCA2-40F6-85FA-AED06FD546A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7EEE40-BCA2-40F6-85FA-AED06FD546A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7EEE40-BCA2-40F6-85FA-AED06FD546A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7EEE40-BCA2-40F6-85FA-AED06FD546A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD9D999-B3C7-4161-8FB6-D2621B93DCB0}
+	EndGlobalSection
+EndGlobal
